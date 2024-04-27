@@ -7,7 +7,6 @@ import org.springframework.context.annotation.Bean;
 
 import com.pairlearning.expensetracker.filters.AuthFilter;
 
-import jakarta.servlet.FilterRegistration;
 
 @SpringBootApplication
 public class ExpenseTrackerApiApplication {
